@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: Cogitator
 
 # Your name to show in the footer
-author: Some Person
+author: Umut Piynar
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -50,24 +50,24 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "auruskan@outlook.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  #facebook: deanattali
+  github: uruskan
+ # twitter: daattali
+  #patreon: DeanAttali
+  #youtube: "@daattali"
+  #whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
+  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
@@ -76,11 +76,11 @@ social-network-links:
 #  bluesky: yourname
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-#  discord: "invite_code" or "users/userid" or "invite/invite_code" 
+  discord: "users/uruskan."
 #  kaggle: yourname
 #  hackerrank: yourname
 #  gitlab: yourname
-#  itchio: yourname
+  itchio: yourname
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
@@ -99,7 +99,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "uruskan.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
