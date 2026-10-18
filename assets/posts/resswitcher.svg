@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Two screens: a stretched 1600 by 1080 picture and a native 2560 by 1440 one, with arrows between them">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#16131f"/><stop offset="1" stop-color="#0d1a1d"/></linearGradient>
+    <radialGradient id="g1" cx="0.25" cy="0.3" r="0.6"><stop offset="0" stop-color="#ff7a2f" stop-opacity="0.45"/><stop offset="1" stop-color="#ff7a2f" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2" cx="0.8" cy="0.75" r="0.6"><stop offset="0" stop-color="#0d9496" stop-opacity="0.4"/><stop offset="1" stop-color="#0d9496" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="750" fill="url(#bg)"/>
+  <rect width="1200" height="750" fill="url(#g1)"/>
+  <rect width="1200" height="750" fill="url(#g2)"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="130" y="210" width="330" height="260" rx="14" stroke="#ffb27a" stroke-width="6"/>
+    <path d="M295 470v52M240 522h110" stroke="#ffb27a" stroke-width="6"/>
+    <rect x="740" y="190" width="380" height="214" rx="14" stroke="#7fd6d4" stroke-width="6"/>
+    <path d="M930 404v52M875 456h110" stroke="#7fd6d4" stroke-width="6"/>
+    <path d="M520 300h160m-28-26 28 26-28 26" stroke="#eeedea" stroke-width="6"/>
+    <path d="M680 380H520m28 26-28-26 28-26" stroke="#eeedea" stroke-width="6" opacity="0.55"/>
+  </g>
+  <g font-family="Segoe UI, system-ui, sans-serif" font-weight="700" text-anchor="middle">
+    <text x="295" y="352" font-size="44" fill="#ffb27a">1600×1080</text>
+    <text x="295" y="400" font-size="24" fill="#ffb27a" opacity="0.8">STRETCHED</text>
+    <text x="930" y="310" font-size="44" fill="#7fd6d4">2560×1440</text>
+    <text x="930" y="356" font-size="24" fill="#7fd6d4" opacity="0.8">NATIVE</text>
+    <text x="600" y="640" font-size="34" fill="#eeedea" opacity="0.9">One click in the tray</text>
+  </g>
+</svg>
